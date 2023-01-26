@@ -1,6 +1,6 @@
 # Tela de Login
 
-![preview](./github/preview.png)
+![preview](/preview.png)
 
 Tela de Login feita usando conceitos básicos de HTML e CSS, tais como responsividade, hover e placeholder
 
